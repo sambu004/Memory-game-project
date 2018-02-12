@@ -2,9 +2,9 @@
 
 
 
-##Game description
+## Game description
 
-#clone or download the file
+### clone or download the file
 
 open index.html to play game
 
