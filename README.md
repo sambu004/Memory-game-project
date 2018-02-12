@@ -4,9 +4,9 @@
 
 ## Game description
 
-### clone or download the file
+__*clone or download the file and open index.html to play game.*__
 
-open index.html to play game
+**click this [link]( https://sambu004.github.io/Memory-game-project/index.html) to play game instantly.**
 
 * To enter the game click on Start game.
 * To play this game you need to click a card which opens and reveals a symbol.
